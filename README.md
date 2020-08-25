@@ -1,1 +1,2 @@
-#shell_scripts_utils
+#shell scripts  
+for personal usage
